@@ -2,7 +2,7 @@
 
 ## About Me
  - [Twitter](https://twitter.com/thingspockydoes)
- - [Ins](https://twitter.com/thingspockydoes)
+ - [Instagram](https://www.instagram.com/pockyyyyyy_tnt/)
  - [Old index](./index-demo.html)
 
 ## Sculptural Works
