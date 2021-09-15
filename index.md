@@ -9,5 +9,5 @@
 
 ## Processing Sketches
 
- - Work 1
+ - [Work 1](sketch/w1)
  - Work 2
