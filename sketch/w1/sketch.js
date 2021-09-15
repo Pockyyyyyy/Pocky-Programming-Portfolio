@@ -1,4 +1,4 @@
-let length = 40, size = 10, HEIGHT = 800, WIDTH = 800;
+let length = 40, size = 10, HEIGHT = 500, WIDTH = 500;
 
 function setup(){
     createCanvas(WIDTH,HEIGHT);
