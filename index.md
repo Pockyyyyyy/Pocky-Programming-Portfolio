@@ -1,9 +1,18 @@
 # Welcome to my portfolio
 
 ## About Me
+### Hongbing Pan
+Game Designer & Graphic Designer
+### MICA BFA 2017-2021
+Major in Game Design (IA), cconcentration in graphic design
+### UCF MA 2021-2023
+Study in Digital Media
+
+## Where You Can Find Me
  - [Twitter](https://twitter.com/thingspockydoes)
  - [Instagram](https://www.instagram.com/pockyyyyyy_tnt/)
  - [Steam](https://steamcommunity.com/id/7771922/)
+ - [itch.io](https://pockyyyyyy.itch.io/)
 
 ## Sculptural Works
 
