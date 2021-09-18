@@ -3,7 +3,7 @@
 ## About Me
  - [Twitter](https://twitter.com/thingspockydoes)
  - [Instagram](https://www.instagram.com/pockyyyyyy_tnt/)
- - [Old index](./index-demo.html)
+ - [Steam](https://steamcommunity.com/id/7771922/)
 
 ## Sculptural Works
 
