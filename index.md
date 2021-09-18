@@ -10,6 +10,7 @@
 ## Processing Sketches
 
  - [Self Portrait](sketch/w1)
- <iframe src="sketch/w1/" height="600" width="600" title="Self Portrait"></iframe>
+ <iframe src="sketch/w1/" height="800" width="800" title="Self Portrait"></iframe>
 
- - Work 2
+ - [Changing Pattern](sketch/w2)
+ <iframe src="sketch/w2/" height="800" width="800" title="Pattern"></iframe>
