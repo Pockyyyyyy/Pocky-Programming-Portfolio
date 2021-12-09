@@ -18,7 +18,7 @@ Study in Digital Media
 
 ## Published Work
 
- - [Cooking Game](published/CookingGame)
+ - [Cooking Star](published/CookingGame)
  <iframe src="published/CookingGame/" height="788" width="1100" title="Pattern"></iframe>
 
  ## Processing Sketches
