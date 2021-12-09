@@ -16,15 +16,15 @@ Study in Digital Media
 
 ## Sculptural Works
 
-## Processing Sketches
+## Published Work
+
+ - [Cooking Game](published/CookingGame)
+ <iframe src="published/CookingGame/" height="788" width="1100" title="Pattern"></iframe>
+
+ ## Processing Sketches
 
  - [Self Portrait](sketch/w1)
  <iframe src="sketch/w1/" height="800" width="800" title="Self Portrait"></iframe>
 
  - [Changing Pattern](sketch/w2)
  <iframe src="sketch/w2/" height="800" width="800" title="Pattern"></iframe>
-
-## Published Work
-
- - [Cooking Game](published/CookingGame)
- <iframe src="published/CookingGame/" height="788" width="1000" title="Pattern"></iframe>
