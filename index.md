@@ -19,7 +19,7 @@ Study in Digital Media
 ## Published Work
 
  - [Cooking Star](published/CookingGame)
- <iframe src="published/CookingGame/" height="810" width="1050" title="Pattern"></iframe>
+ <iframe src="published/CookingGame/" height="810" width="1030" title="Pattern"></iframe>
 
 
 
