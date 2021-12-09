@@ -21,7 +21,7 @@ Study in Digital Media
  - [Cooking Star](published/CookingGame)
  <iframe src="published/CookingGame/" height="800" width="1050" title="Pattern"></iframe>
 
- ## Processing Sketches
+## Processing Sketches
 
  - [Self Portrait](sketch/w1)
  <iframe src="sketch/w1/" height="800" width="800" title="Self Portrait"></iframe>
