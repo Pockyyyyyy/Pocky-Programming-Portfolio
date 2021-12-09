@@ -26,5 +26,5 @@ Study in Digital Media
 
 ## Published Work
 
- - [Cooking Game](sketch/CookingGame)
- <iframe src="sketch/CookingGame/" height="788" width="1000" title="Pattern"></iframe>
+ - [Cooking Game](published/CookingGame)
+ <iframe src="published/CookingGame/" height="788" width="1000" title="Pattern"></iframe>
